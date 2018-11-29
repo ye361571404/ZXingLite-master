@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ZXingLite</string>
+    <string name="permission_camera">App扫码需要用到拍摄权限</string>
+    <string name="permission_external_storage">App需要用到读写权限</string>
+    <string name="tips_scan_code">将二维码/条形码放入框内，即可自动扫码</string>
+    <string name="qr_code">二维码</string>
+    <string name="bar_code">条形码</string>
+
+    <string name="successfully">成功</string>
+    <string name="failure">失败</string>
+    <string name="title_dialog">提示</string>
+    <string name="message_permission_rationale">允许以下权限以便程序继续执行：\n\n%1$s</string>
+    <string name="message_permission_always_failed">我们需要以下权限，请在设置中为我们开启：\n\n%1$s</string>
+
+    <string name="setting">设置</string>
+    <string name="resume">继续</string>
+    <string name="cancel">取消</string>
+    <string name="ok">好</string>
+    <string name="no">不</string>
+</resources>
